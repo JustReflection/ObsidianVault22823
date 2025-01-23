@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "6c30e6cdb00f38ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e297110c99d416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e4893dea963e933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Раха.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Раха"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cadbf87dd60c9fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0289728105cc5187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb37b56a31815ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8127ca9cfb6257f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d952ccc71776f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "900c8d1c06c17dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb80ca9f1d19a4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd62916603e3ab2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPC/Приходящий во снах.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Приходящий во снах"
+            }
+          },
+          {
+            "id": "b05e3eb1b5700793",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPC/Приходящий во снах.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Приходящий во снах"
+            }
+          },
+          {
+            "id": "aef1a19f18c14d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "414db1d4ae20e694",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPC/Приходящий во снах.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Приходящий во снах"
+            }
+          },
+          {
+            "id": "c3b9af982001c9c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "80fb38b5a7f1694b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "80fb38b5a7f1694b",
+  "lastOpenFiles": [
+    "desktop.ini",
+    "Персонажи/Като Юмурюке.md",
+    "БЧЖ, заметки.md",
+    "БЧЖ, цитаты.md",
+    "NPC/Райкар Ловкая Лапа.md",
+    "NPC/Святая плоть.md",
+    "Расы и уникальные существа/Демоны, демонические духи.md",
+    "NPC/Минерва Сборщица.md",
+    "Устройство Мира/Система магии.md",
+    "Устройство Мира/Уст. Мира.md",
+    "Локации/Терассиль.md",
+    "Артефакты/Бестиарий Пиндж.md",
+    "Расы и уникальные существа/Пидж, Матерь Зверей.md",
+    "Локации/Измэ.md",
+    "Локации/Алхме.md",
+    "Локации/Королевство Вингельдия.md",
+    "NPC/Свора.md",
+    "Персонажи/Мои персонажи.md",
+    "Персонажи/Раха.md",
+    "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
+    "Arts/0859ad4c995b9055bcb42fd35226226d.jpg",
+    "Arts/adfcf36c710fb34cbab9c02c868a0916.jpg",
+    "Черновик.md",
+    "NPC/Эдуард Россо.md",
+    "Устройство Мира",
+    "Arts/Pasted image 20241023211328.png",
+    "Arts/Pasted image 20241023211356.png",
+    "Arts/Pasted image 20241023211701.png",
+    "NPC/Приходящий во снах.md",
+    "NPC/Орден Чумных Докторов.md",
+    "NPC/Мистер Плешивый.md",
+    "NPC/Мистер Мушкетер.md",
+    "NPC/Мистер Дениал.md",
+    "Arts/Pasted image 20241023211634.png",
+    "Arts/Pasted image 20241023211630.png",
+    "Arts/Pasted image 20241023211622.png",
+    "Arts/Pasted image 20241023211618.png",
+    "Расы и уникальные существа",
+    "Артефакты",
+    "Персонажи",
+    "Arts",
+    "Локации",
+    "События",
+    "Персонажи игроков",
+    "NPC",
+    "Untitled 1",
+    "Она ещё жива/Untitled.canvas"
+  ]
+}
