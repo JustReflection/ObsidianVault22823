@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "93e297110c99d416",
+        "id": "a20037edfcde3bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4893dea963e933",
+            "id": "b5c133c043cb8f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Раха.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Раха"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "4f52518638fa41f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 300
   },
   "right": {
     "id": "900c8d1c06c17dba",
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Приходящий во снах.md",
+                "file": "Strconv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Приходящий во снах"
+              "title": "Backlinks for Strconv"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Приходящий во снах.md",
+                "file": "Strconv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Приходящий во снах"
+              "title": "Outgoing links from Strconv"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Приходящий во снах.md"
+                "file": "Strconv.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Приходящий во снах"
+              "title": "Outline of Strconv"
             }
           },
           {
@@ -154,23 +169,13 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "80fb38b5a7f1694b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,59 +185,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-git:Open Git source control": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "random-note:Open random note": false
     }
   },
-  "active": "80fb38b5a7f1694b",
+  "active": "4f52518638fa41f7",
   "lastOpenFiles": [
-    "desktop.ini",
-    "Персонажи/Като Юмурюке.md",
-    "БЧЖ, заметки.md",
-    "БЧЖ, цитаты.md",
-    "NPC/Райкар Ловкая Лапа.md",
-    "NPC/Святая плоть.md",
-    "Расы и уникальные существа/Демоны, демонические духи.md",
-    "NPC/Минерва Сборщица.md",
-    "Устройство Мира/Система магии.md",
-    "Устройство Мира/Уст. Мира.md",
-    "Локации/Терассиль.md",
-    "Артефакты/Бестиарий Пиндж.md",
-    "Расы и уникальные существа/Пидж, Матерь Зверей.md",
-    "Локации/Измэ.md",
+    "Git.md",
+    "Golang/IO.md",
+    "Golang/time.Time.md",
+    "Golang/Срезы.md",
+    "Golang/Map.md",
+    "Golang/Go.md",
+    "Golang/Strings.md",
+    "Golang/Strconv.md",
+    "Golang/OS.md",
+    "Golang/Калькулятор.md",
+    "Golang/ООП.md",
+    "Golang/Errors.md",
+    "Golang/Тесты.md",
+    "Golang/Go Delve.md",
+    "Golang/Unicode.md",
+    "Протоколы.md",
+    "Golang",
+    "Welcome.md",
+    "NPC/Эдуард Россо.md",
+    "NPC/Мистер Плешивый.md",
+    "NPC/Мисс Круэл Виньета.md",
     "Локации/Алхме.md",
     "Локации/Королевство Вингельдия.md",
-    "NPC/Свора.md",
-    "Персонажи/Мои персонажи.md",
-    "Персонажи/Раха.md",
-    "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
-    "Arts/0859ad4c995b9055bcb42fd35226226d.jpg",
-    "Arts/adfcf36c710fb34cbab9c02c868a0916.jpg",
-    "Черновик.md",
-    "NPC/Эдуард Россо.md",
-    "Устройство Мира",
-    "Arts/Pasted image 20241023211328.png",
-    "Arts/Pasted image 20241023211356.png",
-    "Arts/Pasted image 20241023211701.png",
-    "NPC/Приходящий во снах.md",
+    "Локации/Измэ.md",
+    "Локации/Терассиль.md",
+    "Локации/Каньон Исчезнувших Гербов.md",
     "NPC/Орден Чумных Докторов.md",
-    "NPC/Мистер Плешивый.md",
-    "NPC/Мистер Мушкетер.md",
-    "NPC/Мистер Дениал.md",
-    "Arts/Pasted image 20241023211634.png",
-    "Arts/Pasted image 20241023211630.png",
-    "Arts/Pasted image 20241023211622.png",
-    "Arts/Pasted image 20241023211618.png",
-    "Расы и уникальные существа",
-    "Артефакты",
-    "Персонажи",
-    "Arts",
     "Локации",
     "События",
     "Персонажи игроков",
     "NPC",
     "Untitled 1",
-    "Она ещё жива/Untitled.canvas"
+    "Проблемы",
+    "Она ещё жива/Untitled.canvas",
+    "Она ещё жива",
+    "ошл",
+    "Она ещё жива"
   ]
 }
