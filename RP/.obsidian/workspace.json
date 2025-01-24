@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93e297110c99d416",
+        "id": "ea1b14dc0fe182b4",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4893dea963e933",
+            "id": "38886f81986319fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Эритра.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эритра"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +185,13 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "aef1a19f18c14d6e",
+  "active": "80fb38b5a7f1694b",
   "lastOpenFiles": [
+    "Наследие Черного Железа.md",
+    "БЧЖ, цитаты.md",
+    "Библия.md",
+    "Эритра.md",
+    "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
     "Квирил.md",
     "Демоны, демонические духи.md",
     "Пидж, Матерь Зверей.md",
@@ -206,10 +214,6 @@
     "Мистер Плешивый.md",
     "Мистер Мушкетер.md",
     "Мистер Дениал.md",
-    "Миссис Шалфей.md",
-    "Мисс Мари фон Кьюр.md",
-    "Мисс Круэл Виньета.md",
-    "Минерва Сборщица.md",
     "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
     "Arts/0859ad4c995b9055bcb42fd35226226d.jpg",
     "Arts/676f67627ca4a9a8b7285d035c59edc2.jpg",
@@ -221,7 +225,6 @@
     "Arts/adfcf36c710fb34cbab9c02c868a0916.jpg",
     "Устройство Мира",
     "Arts/Pasted image 20241023211328.png",
-    "Arts/Pasted image 20241023211356.png",
     "Расы и уникальные существа",
     "Артефакты",
     "Персонажи",
