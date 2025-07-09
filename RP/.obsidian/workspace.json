@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8d953fcc3c92ae",
+        "id": "7161bc48e6a97ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "1808db867f3e2d4c",
+            "id": "550dacef1b17582e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лапа Свободы.md",
+                "file": "Александра Сизова.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лапа Свободы"
-            }
-          },
-          {
-            "id": "1b05e1dbb3921249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ОСИ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ОСИ"
-            }
-          },
-          {
-            "id": "63dbba2d54281cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Пурпурный Рассвет.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Пурпурный Рассвет"
-            }
-          },
-          {
-            "id": "c4d2012a346c0d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сюжет для Заблудшего.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сюжет для Заблудшего"
+              "title": "Александра Сизова"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Приходящий во снах.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Приходящий во снах"
+              "title": "Outline"
             }
           },
           {
@@ -216,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,12 +190,15 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "1b05e1dbb3921249",
+  "active": "80fb38b5a7f1694b",
   "lastOpenFiles": [
-    "Лапа Свободы.md",
+    "Александра Сизова.md",
+    "89d5161ddda65059c65ca7e2dcb5bf56-1.jpg",
     "ОСИ.md",
     "Пурпурный Рассвет.md",
+    "Лапа Свободы.md",
     "Сюжет для Заблудшего.md",
+    "Реминна.md",
     "d7676d8268cbd6fe38ae638570443e99.jpg",
     "Библия.md",
     "Заметки по Эритре.md",
@@ -262,13 +224,9 @@
     "Терассиль.md",
     "Астрадил.md",
     "Королевство Рейвалон.md",
-    "Королевство Вингельдия.md",
-    "Каньон Исчезнувших Гербов.md",
-    "Измэ.md",
     "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
     "Arts/0859ad4c995b9055bcb42fd35226226d.jpg",
     "Arts/676f67627ca4a9a8b7285d035c59edc2.jpg",
-    "Arts/96c43a66f3a4c5369e390581b6db2470.jpg",
     "desktop.ini",
     "Устройство Мира",
     "Расы и уникальные существа",
