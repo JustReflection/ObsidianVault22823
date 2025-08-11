@@ -49,7 +49,8 @@
               "title": "LondonLore"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,14 +219,14 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "c98e45bb411ca3b2",
+  "active": "522a41d8b2b9f85b",
   "lastOpenFiles": [
+    "SCP-9273 Лесная дева.md",
     "Pasted image 20250805231558.png",
     "Pasted image 20250805231551.png",
     "Элизабет Норвуд.md",
     "ГлифыЛондон.md",
     "Като Юмурюке.md",
-    "SCP-9273 Лесная дева.md",
     "LondonLore.md",
     "Система магии.md",
     "Александра Сизова.md",
@@ -255,7 +256,6 @@
     "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
     "Квирил.md",
     "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
-    "Arts/0859ad4c995b9055bcb42fd35226226d.jpg",
     "desktop.ini",
     "Устройство Мира",
     "Расы и уникальные существа",
