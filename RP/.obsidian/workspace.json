@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c204a69f00f1734c",
+            "id": "819e34587dac17cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шесть явлений.md",
+                "file": "Вулданианство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шесть явлений"
+              "title": "Вулданианство"
             }
           }
         ]
@@ -191,10 +191,14 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "c204a69f00f1734c",
+  "active": "819e34587dac17cf",
   "lastOpenFiles": [
+    "Дабуизм.md",
+    "Вулданианство.md",
+    "Телоизм.md",
+    "Зоны радиации и эфира.md",
+    "Эльфы-After.md",
     "Элизабет Норвуд.md",
-    "Шесть явлений.md",
     "SCP-9273 Лесная дева.md",
     "Pasted image 20250805231558.png",
     "Pasted image 20250805231551.png",
@@ -223,11 +227,7 @@
     "Калфиона, всемилоственный лекарь.md",
     "Сюжет во вселенной SCP.md",
     "Черновик.md",
-    "Пидж, Матерь Зверей.md",
-    "Наследие Черного Железа.md",
-    "БЧЖ, цитаты.md",
     "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
-    "Квирил.md",
     "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
     "desktop.ini",
     "Устройство Мира",

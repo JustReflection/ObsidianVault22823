@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a20037edfcde3bdb",
+        "id": "9e79e5b8a76e2841",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c133c043cb8f03",
+            "id": "c204a69f00f1734c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Механика поиска улик.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "4f52518638fa41f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
+              "title": "Механика поиска улик"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "900c8d1c06c17dba",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strconv.md",
+                "file": "NPC/Приходящий во снах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Strconv"
+              "title": "Backlinks for Приходящий во снах"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strconv.md",
+                "file": "NPC/Приходящий во снах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Strconv"
+              "title": "Outgoing links from Приходящий во снах"
             }
           },
           {
@@ -142,8 +127,10 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,10 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strconv.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strconv"
+              "title": "Outline"
             }
           },
           {
@@ -170,63 +159,86 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "80fb38b5a7f1694b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "4f52518638fa41f7",
+  "active": "c204a69f00f1734c",
   "lastOpenFiles": [
-    "Git.md",
-    "Golang/IO.md",
-    "Golang/time.Time.md",
-    "Golang/Срезы.md",
-    "Golang/Map.md",
-    "Golang/Go.md",
-    "Golang/Strings.md",
-    "Golang/Strconv.md",
-    "Golang/OS.md",
-    "Golang/Калькулятор.md",
-    "Golang/ООП.md",
-    "Golang/Errors.md",
-    "Golang/Тесты.md",
-    "Golang/Go Delve.md",
-    "Golang/Unicode.md",
-    "Протоколы.md",
-    "Golang",
     "Welcome.md",
-    "NPC/Эдуард Россо.md",
-    "NPC/Мистер Плешивый.md",
-    "NPC/Мисс Круэл Виньета.md",
-    "Локации/Алхме.md",
-    "Локации/Королевство Вингельдия.md",
-    "Локации/Измэ.md",
-    "Локации/Терассиль.md",
-    "Локации/Каньон Исчезнувших Гербов.md",
-    "NPC/Орден Чумных Докторов.md",
+    "Механика поиска улик.md",
+    "Элизабет Норвуд.md",
+    "Шесть явлений.md",
+    "SCP-9273 Лесная дева.md",
+    "Pasted image 20250805231558.png",
+    "Pasted image 20250805231551.png",
+    "ГлифыЛондон.md",
+    "Като Юмурюке.md",
+    "LondonLore.md",
+    "Система магии.md",
+    "Александра Сизова.md",
+    "Arts/89d5161ddda65059c65ca7e2dcb5bf56-1.jpg",
+    "ОСИ.md",
+    "Пурпурный Рассвет.md",
+    "Лапа Свободы.md",
+    "Сюжет для Заблудшего.md",
+    "Реминна.md",
+    "d7676d8268cbd6fe38ae638570443e99.jpg",
+    "Библия.md",
+    "Заметки по Эритре.md",
+    "Принцесса Фальшивой Луны.md",
+    "Вивьен.md",
+    "Эритра.md",
+    "Мирель_Плацебо.md",
+    "Arts/6f47294e47d346871dd25cee9937367e.jpg",
+    "a347ffef125b3a0e8720aa7c17480603.jpg",
+    "Arts/94874feddf418fcbd24d018b79b9cb16.jpg",
+    "Arts/e9ea226c80c8875f9f18aa5e37955ca8.jpg",
+    "Калфиона, всемилоственный лекарь.md",
+    "Сюжет во вселенной SCP.md",
+    "Черновик.md",
+    "Пидж, Матерь Зверей.md",
+    "Наследие Черного Железа.md",
+    "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
+    "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
+    "desktop.ini",
+    "Устройство Мира",
+    "Расы и уникальные существа",
+    "Артефакты",
+    "Персонажи",
+    "Arts",
     "Локации",
     "События",
     "Персонажи игроков",
     "NPC",
-    "Untitled 1",
-    "Проблемы",
-    "Она ещё жива/Untitled.canvas",
-    "Она ещё жива",
-    "ошл",
-    "Она ещё жива"
+    "Она ещё жива/Untitled.canvas"
   ]
 }
