@@ -8,16 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd6b0a795aacd0ca",
+            "id": "43ee8893aec70747",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "BioPunk.canvas",
                 "viewState": {
-                  "x": 176,
-                  "y": -650,
-                  "zoom": -0.9567879331787014
+                  "x": 553.182389937107,
+                  "y": -1340.2188150423915,
+                  "zoom": -0.9878509173338839
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,17 +25,49 @@
             }
           },
           {
-            "id": "43ee8893aec70747",
+            "id": "b0455f9bbcf4cdc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Красная лихорадка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Красная лихорадка"
+            }
+          },
+          {
+            "id": "a2ece77b75069c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Марго Вишневская.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Марго Вишневская"
+            }
+          },
+          {
+            "id": "9db17ea9c68e5d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Карвис Вивит, Карви.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Карвис Вивит, Карви"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,23 +225,28 @@
       "random-note:Open random note": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9eb37b56a31815ed",
+  "active": "9db17ea9c68e5d35",
   "lastOpenFiles": [
-    "txt/After Предыстория.md",
     "BioPunk.canvas",
+    "Карвис Вивит, Карви.md",
+    "Красная лихорадка.md",
+    "txt/After Предыстория.md",
+    "Марго Вишневская.md",
+    "Плоть/Плоть, Карномицелий.md",
+    "Плоть",
+    "txt/Лулу Йохансон.md",
+    "txt/Ребекка Вульф.md",
+    "Arts/83ec27fb862fa278a401dc9b2ff37c27.jpg",
     "txt/Она ещё жива.md",
     "txt/Вулданианство.md",
     "txt/Дети Скверны.md",
-    "txt/Лулу Йохансон.md",
     "txt/Телоизм.md",
     "txt/Хаан.md",
     "txt/Группировка Фенрир.md",
     "txt/Виктория Сэвильд.md",
-    "txt/Ребекка Вульф.md",
     "txt/Ночной Приют.md",
     "txt/Чумики.md",
     "Arts/d7676d8268cbd6fe38ae638570443e99.jpg",
@@ -226,16 +263,11 @@
     "txt/SCP-9273 Лесная дева.md",
     "Arts/Pasted image 20250805231558.png",
     "txt/ГлифыЛондон.md",
-    "txt/Като Юмурюке.md",
-    "txt/LondonLore.md",
-    "txt/Система магии.md",
     "Arts/89d5161ddda65059c65ca7e2dcb5bf56-1.jpg",
-    "txt/ОСИ.md",
     "Arts/6f47294e47d346871dd25cee9937367e.jpg",
     "Arts/94874feddf418fcbd24d018b79b9cb16.jpg",
     "Arts/e9ea226c80c8875f9f18aa5e37955ca8.jpg",
     "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
-    "Arts/4167a529a3bc92074cdd803147d996e9.jpg",
     "desktop.ini",
     "Устройство Мира",
     "Расы и уникальные существа",
@@ -244,7 +276,6 @@
     "Arts",
     "Локации",
     "События",
-    "Персонажи игроков",
     "Она ещё жива/Untitled.canvas"
   ]
 }

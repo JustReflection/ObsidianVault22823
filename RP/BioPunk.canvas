@@ -1,12 +1,15 @@
 {
 	"nodes":[
+		{"id":"ed327a4686197d6f","type":"file","file":"Карвис Вивит, Карви.md","x":-240,"y":-200,"width":400,"height":400},
 		{"id":"72a724f7848f376a","type":"file","file":"txt/Ребекка Вульф.md","x":920,"y":-280,"width":400,"height":400},
 		{"id":"7a6a5551cd8f09be","type":"file","file":"txt/Группировка Фенрир.md","x":560,"y":-1160,"width":400,"height":400},
 		{"id":"46ec0b8532be8e6d","type":"file","file":"txt/Лулу Йохансон.md","x":-160,"y":-1300,"width":400,"height":400},
 		{"id":"dc7974d1e945c99c","type":"file","file":"txt/Виктория Сэвильд.md","x":-160,"y":-680,"width":400,"height":400},
 		{"id":"d1c5d17b44be8b06","type":"file","file":"txt/Ночной Приют.md","x":-880,"y":-1360,"width":400,"height":520},
 		{"id":"6b6227ec997e7632","type":"file","file":"txt/Чумики.md","x":-880,"y":-520,"width":400,"height":400},
-		{"id":"0e79f05acd4dbca2","x":480,"y":-560,"width":400,"height":400,"type":"file","file":"txt/After Предыстория.md"}
+		{"id":"1fc1a7ffdaf9c134","type":"file","file":"Марго Вишневская.md","x":360,"y":-40,"width":400,"height":400},
+		{"id":"5a982af03811643c","type":"file","file":"Плоть/Плоть, Карномицелий.md","x":1120,"y":-880,"width":400,"height":400},
+		{"id":"0e79f05acd4dbca2","type":"file","file":"txt/After Предыстория.md","x":560,"y":-2000,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"150183209407528b","fromNode":"46ec0b8532be8e6d","fromSide":"bottom","toNode":"dc7974d1e945c99c","toSide":"top"},
