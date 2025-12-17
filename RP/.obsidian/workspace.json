@@ -15,9 +15,9 @@
               "state": {
                 "file": "BioPunk.canvas",
                 "viewState": {
-                  "x": 553.182389937107,
-                  "y": -1340.2188150423915,
-                  "zoom": -0.9878509173338839
+                  "x": -81.54817151660842,
+                  "y": -1453.7425568240064,
+                  "zoom": -0.3211842506672173
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,49 +25,35 @@
             }
           },
           {
-            "id": "b0455f9bbcf4cdc7",
+            "id": "55db7ec57f1087a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Красная лихорадка.md",
+                "file": "txt/Эмили Уотсон.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Красная лихорадка"
+              "title": "Эмили Уотсон"
             }
           },
           {
-            "id": "a2ece77b75069c14",
+            "id": "6c2758caa3e2fab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Марго Вишневская.md",
+                "file": "txt/After Предыстория.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Марго Вишневская"
-            }
-          },
-          {
-            "id": "9db17ea9c68e5d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Карвис Вивит, Карви.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Карвис Вивит, Карви"
+              "title": "After Предыстория"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,13 +214,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9db17ea9c68e5d35",
+  "active": "6c2758caa3e2fab2",
   "lastOpenFiles": [
     "BioPunk.canvas",
-    "Карвис Вивит, Карви.md",
-    "Красная лихорадка.md",
+    "txt/Эмили Уотсон.md",
     "txt/After Предыстория.md",
-    "Марго Вишневская.md",
+    "txt/After Инквизиция.md",
+    "txt/Анна Эйрик.md",
+    "Arts/Pasted image 20251208200101.png",
+    "txt/Астрид Ханс.md",
+    "txt/Мартин Морр.md",
+    "txt/Карвис Вивит, Карви.md",
+    "txt/Красная лихорадка.md",
+    "txt/Мария Вишневская.md",
     "Плоть/Плоть, Карномицелий.md",
     "Плоть",
     "txt/Лулу Йохансон.md",
@@ -257,17 +249,11 @@
     "txt/Пихта.md",
     "txt/Аномалии-After.md",
     "txt/Дабуизм.md",
-    "txt/Зоны радиации и эфира.md",
-    "txt/Эльфы-After.md",
-    "txt/Элизабет Норвуд.md",
-    "txt/SCP-9273 Лесная дева.md",
     "Arts/Pasted image 20250805231558.png",
-    "txt/ГлифыЛондон.md",
     "Arts/89d5161ddda65059c65ca7e2dcb5bf56-1.jpg",
     "Arts/6f47294e47d346871dd25cee9937367e.jpg",
     "Arts/94874feddf418fcbd24d018b79b9cb16.jpg",
     "Arts/e9ea226c80c8875f9f18aa5e37955ca8.jpg",
-    "Arts/e57514ed7aae2e470a9443210b6f7342.jpg",
     "desktop.ini",
     "Устройство Мира",
     "Расы и уникальные существа",
