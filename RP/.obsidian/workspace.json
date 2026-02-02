@@ -37,9 +37,23 @@
               "icon": "lucide-file",
               "title": "Лулу Йохансон"
             }
+          },
+          {
+            "id": "bb66cb03251a0e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "txt/Анна Эйрик.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анна Эйрик"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,11 +224,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "57068cb489ed6c8f",
+  "active": "bb66cb03251a0e4f",
   "lastOpenFiles": [
-    "Untitled.base",
-    "BioPunk.canvas",
     "txt/Лулу Йохансон.md",
+    "txt/Анна Эйрик.md",
+    "AnnaYerick.png",
+    "BioPunk.canvas",
+    "Untitled.base",
     "LuluYohanson.jpg",
     "Вопросы.md",
     "Untitled.md",
@@ -228,7 +244,6 @@
     "txt/Эмили Уотсон.md",
     "Она ещё жива.md",
     "txt/After Инквизиция.md",
-    "txt/Анна Эйрик.md",
     "Arts/Pasted image 20251208200101.png",
     "txt/Астрид Ханс.md",
     "txt/Мартин Морр.md",
@@ -250,7 +265,6 @@
     "Arts/Pasted image 20250805231558.png",
     "Arts/89d5161ddda65059c65ca7e2dcb5bf56-1.jpg",
     "Arts/6f47294e47d346871dd25cee9937367e.jpg",
-    "Arts/94874feddf418fcbd24d018b79b9cb16.jpg",
     "desktop.ini",
     "Устройство Мира",
     "Расы и уникальные существа",
