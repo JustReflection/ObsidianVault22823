@@ -1,0 +1,54 @@
+.character-sheet {
+  display: flex;
+  max-width: 700px;
+  gap: 24px;
+  padding: 16px;
+  font-family: var(--font-text, serif);
+  align-items: flex-start;
+}
+
+.character-rows {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.character-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.character-row:last-child {
+  border-bottom: none;
+}
+
+.character-label {
+  font-weight: 600;
+  opacity: 0.85;
+  text-align: left;
+  flex-basis: 40%;
+}
+
+.character-value {
+  font-style: italic;
+  text-align: right;
+  flex-basis: 55%;
+}
+
+.character-image {
+  width: 250px;
+  flex-shrink: 0;
+  padding: 6px;
+  border: 2px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  margin: 6px;
+}
+
+.character-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
